@@ -1,0 +1,17 @@
+.bottom-nav {
+  height: 3rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.bottom-navigation-options {
+  display: flex;
+}
+.bottom-navigation-options i {
+  margin-top: 0.8rem;
+  font-size: 1.4rem;
+}
+i {
+  color: #ffffff;
+}

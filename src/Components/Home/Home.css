@@ -1,0 +1,19 @@
+@media only screen and (min-width: 767px) {
+  .post-card {
+    margin: auto 20%;
+  }
+}
+
+.post-card {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.comment {
+  border-radius: 10px;
+  padding: 15px 5px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.home-status {
+  margin-top: 15rem;
+}

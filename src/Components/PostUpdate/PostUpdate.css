@@ -1,0 +1,11 @@
+.post-form {
+  margin-top: 3rem;
+}
+.post-head {
+  font-size: 3rem;
+  margin-top: 4rem;
+  font-weight: 700;
+}
+.post-btn {
+  width: 10rem !important;
+}
