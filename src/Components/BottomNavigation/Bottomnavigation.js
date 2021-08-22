@@ -1,7 +1,6 @@
 import "./Bottomnavigation.css";
 import { Link } from "react-router-dom";
 import { Container, Col, Row } from 'react-bootstrap';
-import IconButton from '@material-ui/core/IconButton';
 
 const BottomNavigation = () => {
     return (
